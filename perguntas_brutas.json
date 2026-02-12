@@ -59,7 +59,7 @@
         "pergunta": "A lei da atração é verdadeira?",
         "resposta": "sim",
         "video": "2023-06-11",
-        "tema": "lei da atracao",
+        "tema": "lei_da_atracao",
         "origem": "@juliajstudioo"
     },
 
@@ -80,10 +80,397 @@
     },
 
     {
-        "pergunta": "O inferno é criado pela nossa consciência devido a?",
+        "pergunta": "O inferno é criado pela nossa consciência devido a culpa ao desencarnar?",
+        "resposta": "sim",
+        "video": "2023-06-11",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "O reencarne é algo rápido?",
         "resposta": "nao",
         "video": "2023-06-11",
-        "tema": "ateu",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "Os suicidas são socorridos e salvos?",
+        "resposta": "sim",
+        "video": "2023-06-11",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "Todas as almas sem distinção são salvas?",
+        "resposta": "sim",
+        "video": "2023-06-11",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "Nós sempre assumimos o mesmo sexo biológico durante as reencarnações?",
+        "resposta": "nao",
+        "video": "2023-06-18",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "A homossexualidade é pecado?",
+        "resposta": "nao",
+        "video": "2023-06-18",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "A homossexualidade fere alguma lei divina?",
+        "resposta": "nao",
+        "video": "2023-06-18",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "Os casais homossexuais são abençoados e recebem a mesma luz de deus?",
+        "resposta": "sim",
+        "video": "2023-06-18",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "Se somos todos irmãos perante a Deus, aqueles que julgam o outro e tem preconceito acabam prejudicando a si mesmos?",
+        "resposta": "sim",
+        "video": "2023-06-18",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+
+    {
+        "pergunta": "A homossexualidade é uma escolha?",
+        "resposta": "nao",
+        "video": "2023-06-18",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Todos são aceitos e recebidos ao desencarnar?",
+        "resposta": "sim",
+        "video": "2023-06-18",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Conseguimos nos curar de qualquer doença alterando nosso estado mental?",
+        "resposta": "nao",
+        "video": "2023-06-25",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Conseguimos nos curar de qualquer doença alterando nosso estado vibratório?",
+        "resposta": "sim",
+        "video": "2023-06-25",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Pessoas que faleceram se lembram de nós nesse plano?",
+        "resposta": "sim",
+        "video": "2023-06-25",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Os desencarnados podem nos visitar quando lhes é permitido?",
+        "resposta": "sim",
+        "video": "2023-06-25",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Sonhos podem ser desdobramentos?",
+        "resposta": "sim",
+        "video": "2023-06-25",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Os desencarnados ouvem nossas preces?",
+        "resposta": "sim",
+        "video": "2023-06-25",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Nós temos obrigação de perdoar as pessoas que nos fazem mal?",
+        "resposta": "nao",
+        "video": "2023-06-25",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "O perdão é algo benéfico a nós quando é feito?",
+        "resposta": "sim",
+        "video": "2023-06-25",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Há alguma alma que não é socorrida?",
+        "resposta": "nao",
+        "video": "2023-07-02",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Nós que escolhemos não aceitar o socorro ao desencarnar?",
+        "resposta": "sim",
+        "video": "2023-07-02",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Nós podemos escolher a forma que queremos nos apresentar quando espíritos desencarnados?",
+        "resposta": "sim",
+        "video": "2023-07-02",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Quando desencarnados podemos visitar os encarnados a hora que quisermos?",
+        "resposta": "nao",
+        "video": "2023-07-02",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Deficiência foi algum pecado cometido em outra vida?",
+        "resposta": "nao",
+        "video": "2023-07-02",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Nós nos sujeitamos às deficiências antes de encarnar como forma de acelerar a evolução?",
+        "resposta": "sim",
+        "video": "2023-07-02",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Os desencarnados vêem nossas velas?",
+        "resposta": "sim",
+        "video": "2023-07-02",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Os desencarnados ouvem quando nós os chamamos?",
+        "resposta": "sim",
+        "video": "2023-07-02",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "O umbral existe?",
+        "resposta": "sim",
+        "video": "2023-07-09",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "O umbral é criação da nossa consciência ao desencarnar?",
+        "resposta": "sim",
+        "video": "2023-07-09",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Os espíritos sentem bem com a presença de velas?",
+        "resposta": "indiferente",
+        "video": "2023-07-09",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "A vela faz diferença na nossa conexão?",
+        "resposta": "nao",
+        "video": "2023-07-09",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Todos são destinados a encontrar um amor?",
+        "resposta": "nao",
+        "video": "2023-07-09",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Posso ser a reencarnação de um familiar que já faleceu?",
+        "resposta": "sim",
+        "video": "2023-07-09",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Carregamos traumas e memórias de outras vidas?",
+        "resposta": "sim",
+        "video": "2023-07-09",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "O espírito obsessor tem luz em sua forma?",
+        "resposta": "sim",
+        "video": "2023-07-16",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Sempre reencarnamos no mesmo planeta?",
+        "resposta": "nao",
+        "video": "2023-07-16",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Estamos ainda num mundo de provas e espiações?",
+        "resposta": "nao",
+        "video": "2023-07-16",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Vai demorar pra terra entrar na era da felicidade?",
+        "resposta": "nao",
+        "video": "2023-07-16",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "A terra já entrou em transição planetária para o mundo de regeneração?",
+        "resposta": "sim",
+        "video": "2023-07-16",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Após a fase de regeneração, pessoas que não evoluíram sua expansão de consciência irão reencarnar aqui?",
+        "resposta": "nao",
+        "video": "2023-07-16",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Todo mundo tem um mentor espiritual que nos acompanha?",
+        "resposta": "sim",
+        "video": "2023-07-16",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Podemos ter mais de um mentor?",
+        "resposta": "sim",
+        "video": "2023-07-16",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Se conectar com o mundo espiritual é uma maneira de ascensão do espírito?",
+        "resposta": "sim",
+        "video": "2023-07-23",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Estamos todos em processo espiritual?",
+        "resposta": "sim",
+        "video": "2023-07-23",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "É possível melhorar a questão de sentir medo procurando estudar mais sobre mediunidade?",
+        "resposta": "sim",
+        "video": "2023-07-23",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Os guias espirituais conseguem nos ouvir o tempo inteiro?",
+        "resposta": "nao",
+        "video": "2023-07-23",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Provações são uma forma de mostrar o que viemos evoluir aqui?",
+        "resposta": "sim",
+        "video": "2023-07-23",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "É pecado relacionamento entre pessoas do mesmo sexo?",
+        "resposta": "nao",
+        "video": "2023-07-23",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Ainda há muito obsessor influenciando nossa vida?",
+        "resposta": "sim",
+        "video": "2023-07-30",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Os mentores geralmente são seres de outro planeta?",
+        "resposta": "sim",
+        "video": "2023-07-30",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Os mentores também estão em processo evolutivo?",
+        "resposta": "sim",
+        "video": "2023-07-30",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Sentir cheiro de vela ao orar pode ser sinal que o mentor está próximo?",
+        "resposta": "sim",
+        "video": "2023-07-30",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Visualmente falando o mundo espiritual que vamos assim que desencarnamos é parecido com a terra?",
+        "resposta": "sim",
+        "video": "2023-07-30",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Todo o mundo espiritual se assemelha a terra?",
+        "resposta": "nao",
+        "video": "2023-07-30",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
+    {
+        "pergunta": "Oração de pedido de proteção tem efeito imediato?",
+        "resposta": "nao",
+        "video": "2023-07-30",
+        "tema": "null",
         "origem": "@juliajstudioo"
     }
 ]
