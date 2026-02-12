@@ -1,0 +1,15 @@
+# Pastas de dependências (nunca suba isso!)
+node_modules/
+dist/
+build/
+
+# Arquivos do sistema e editores
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos de log e ambientes virtuais
+*.log
+venv/
+.env
