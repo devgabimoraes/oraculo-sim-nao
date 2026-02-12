@@ -13,3 +13,13 @@ Thumbs.db
 *.log
 venv/
 .env
+
+# Arquivos de mídia (vídeos e fotos de referência)
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.png
+
+# Arquivos temporários de editores
+.history/
