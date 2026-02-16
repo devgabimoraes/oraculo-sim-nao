@@ -2,59 +2,59 @@
     {
         "pergunta":"Todas as pessoas possuem mentores?",
         "resposta": "sim",
-        "video": "2023-06-04",
+        "video": "2023-06-03",
         "tema": null,
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta":"Quando desencarnamos reencontramos parentes que já se foram?",
         "resposta": "sim",
-        "video": "2023-06-04",
+        "video": "2023-06-03",
         "tema": null,
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta":"Nossa primeira encarnação foi no planeta Terra?",
         "resposta": "nao",
-        "video": "2023-06-04",
+        "video": "2023-06-03",
         "tema": null,
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta":"Todos somos socorridos ao desencarnar?",
         "resposta": "sim",
-        "video": "2023-06-04",
+        "video": "2023-06-03",
         "tema": null,
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta":"Todos nós vamos para o mesmo lugar quando desencarnarmos?",
         "resposta": "nao",
-        "video": "2023-06-04",
+        "video": "2023-06-03",
         "tema": null,
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta":"Para onde vamos quando desencarnamos depende do nosso nível de consciência aqui?",
         "resposta": "sim",
-        "video": "2023-06-04",
+        "video": "2023-06-03",
         "tema": null,
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta":"Existe uma única religião correta?",
         "resposta": "nao",
-        "video": "2023-06-04",
+        "video": "2023-06-03",
         "tema": null,
         "origem": "@juliajstudioo"
     },
-
+    {
+        "pergunta":"Todas as religiões são corretas?",
+        "resposta": "sim",
+        "video": "2023-06-03",
+        "tema": null,
+        "origem": "@juliajstudioo"
+    },
     {
         "pergunta": "A lei da atração é verdadeira?",
         "resposta": "sim",
@@ -62,7 +62,6 @@
         "tema": "lei_da_atracao",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "Os ateus tem o mesmo destino que os religiosos?",
         "resposta": "sim",
@@ -70,7 +69,6 @@
         "tema": "ateismo",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "O inferno existe?",
         "resposta": "nao",
@@ -78,7 +76,6 @@
         "tema": "inferno",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "O inferno é criado pela nossa consciência devido a culpa ao desencarnar?",
         "resposta": "sim",
@@ -86,7 +83,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "O reencarne é algo rápido?",
         "resposta": "nao",
@@ -94,7 +90,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "Os suicidas são socorridos e salvos?",
         "resposta": "sim",
@@ -102,7 +97,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "Todas as almas sem distinção são salvas?",
         "resposta": "sim",
@@ -110,7 +104,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "Nós sempre assumimos o mesmo sexo biológico durante as reencarnações?",
         "resposta": "nao",
@@ -118,7 +111,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "A homossexualidade é pecado?",
         "resposta": "nao",
@@ -126,7 +118,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "A homossexualidade fere alguma lei divina?",
         "resposta": "nao",
@@ -134,7 +125,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "Os casais homossexuais são abençoados e recebem a mesma luz de deus?",
         "resposta": "sim",
@@ -142,7 +132,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "Se somos todos irmãos perante a Deus, aqueles que julgam o outro e tem preconceito acabam prejudicando a si mesmos?",
         "resposta": "sim",
@@ -150,7 +139,6 @@
         "tema": "null",
         "origem": "@juliajstudioo"
     },
-
     {
         "pergunta": "A homossexualidade é uma escolha?",
         "resposta": "nao",
@@ -327,7 +315,7 @@
         "origem": "@juliajstudioo"
     },
     {
-        "pergunta": "O espírito obsessor tem luz em sua forma?",
+        "pergunta": "O espírito obsessor também tem luz em sua forma?",
         "resposta": "sim",
         "video": "2023-07-16",
         "tema": "null",
@@ -472,5 +460,12 @@
         "video": "2023-07-30",
         "tema": "null",
         "origem": "@juliajstudioo"
-    }
+    },
+    {
+        "pergunta": "Oração de pedido de proteção tem efeito imediato?",
+        "resposta": "nao",
+        "video": "2023-08-06",
+        "tema": "null",
+        "origem": "@juliajstudioo"
+    },
 ]
