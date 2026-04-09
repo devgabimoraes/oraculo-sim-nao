@@ -34,21 +34,68 @@ namespace ProjetoRadiestesia
             Console.WriteLine("\n--- Resultados Encontrados ---");
             foreach (var p in resultado)
             {
-                Console.WriteLine(p);
+                // Usamos o p.id que você acabou de criar!
+                Console.WriteLine($"[{p.id}] - {p.pergunta} ({p.resposta.ToUpper()})");
+            }
+
+            Console.WriteLine("\n--- Teste de Busca por ID Direta ---");
+            Console.Write("Digite o ID de uma pergunta para ver o detalhe: ");
+            int idDigitado = int.Parse(Console.ReadLine()); // Transformamos o texto do teclado em número
+
+            // Chamando a nova função que você criou!
+            Pergunta perguntaEncontrada = BuscarPorId(perguntas, idDigitado);
+
+
+            if (perguntaEncontrada != null)
+            {
+                Console.WriteLine($"\n[DETALHE]: {perguntaEncontrada.pergunta}");
+                Console.WriteLine($"[RESPOSTA]: {perguntaEncontrada.resposta.ToUpper()}");
+
+                // Lógica para buscar a "Mãe" (Contexto)
+                if (perguntaEncontrada.relacionadaId != null)
+                {
+                    // Aqui chamamos a função de buscar por ID usando o ID da mãe!
+                    var perguntaMae = BuscarPorId(perguntas, perguntaEncontrada.relacionadaId.Value);
+
+                    if (perguntaMae != null)
+                    {
+                        Console.WriteLine("\n--- CONTEXTO IMPORTANTE ---");
+                        Console.WriteLine($"Esta pergunta é um esclarecimento de: \"{perguntaMae.pergunta}\"");
+                        Console.WriteLine("Recomendamos ler a pergunta acima para entender melhor o contexto.");
+                        Console.WriteLine("---------------------------\n");
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("ID não encontrado.");
             }
 
         } // FIM do Main
 
         // Esta função é uma "ferramenta" que o Main usa
         
-        static List<string> BuscarPerguntas(List<Pergunta> lista, string termo)
+        static List<Pergunta> BuscarPerguntas(List<Pergunta> lista, string termo)
         {
             return lista
                 .Where(p => p.pergunta.Contains(termo, StringComparison.OrdinalIgnoreCase)) // Filtra a lista onde a pergunta contém o termo (ignorando maiúsculas/minúsculas)
-                .Select(p => p.pergunta) // Transforma Pergunta em string
+                // .Select(p => p.pergunta) // Transforma Pergunta em string
                 .ToList();
         }
-        
+
+        static Pergunta BuscarPorId(List<Pergunta> lista, int idProcurado)
+        {
+            // O .FirstOrDefault retorna o primeiro item que encontrar com esse ID
+            // Se não encontrar nada, ele retorna null
+            return lista.FirstOrDefault(p => p.id == idProcurado);
+        }
+
+        static List<Pergunta> BuscarRelacionadas(List<Pergunta> lista, int idDaPerguntaAtual)
+        {
+            return lista
+                .Where(p => p.relacionadaId == idDaPerguntaAtual)
+                .ToList();
+        }
 
 
         // A DEFINIÇÃO DA FUNÇÃO
