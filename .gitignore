@@ -23,3 +23,16 @@ venv/
 
 # Arquivos temporários de editores
 .history/
+
+# Arquivos de cache e temporários do VS/VS Code
+.vs/
+*.dtbcache.v2
+*.wsuo
+*.sqlite
+DocumentLayout.json
+VSWorkspaceState.json
+
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/

@@ -1,12 +1,15 @@
 [
     {
+        "id": 1,
         "pergunta":"Todas as pessoas possuem mentores?",
         "resposta": "sim",
         "video": "2023-06-04",
         "tema": null,
-        "origem": "@juliajstudioo"
+        "origem": "@juliajstudioo",
+        "relacionadaID": null
     },
     {
+        "id": 2,
         "pergunta":"Quando desencarnamos reencontramos parentes que já se foram?",
         "resposta": "sim",
         "video": "2023-06-04",
@@ -14,6 +17,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 3,
         "pergunta":"Nossa primeira encarnação foi no planeta Terra?",
         "resposta": "nao",
         "video": "2023-06-04",
@@ -21,6 +25,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 4,
         "pergunta":"Todos somos socorridos ao desencarnar?",
         "resposta": "sim",
         "video": "2023-06-04",
@@ -28,6 +33,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 5,
         "pergunta":"Todos nós vamos para o mesmo lugar quando desencarnarmos?",
         "resposta": "nao",
         "video": "2023-06-04",
@@ -35,6 +41,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 6,
         "pergunta":"Para onde vamos quando desencarnamos depende do nosso nível de consciência aqui?",
         "resposta": "sim",
         "video": "2023-06-04",
@@ -42,6 +49,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 7,
         "pergunta":"Existe uma única religião correta?",
         "resposta": "nao",
         "video": "2023-06-04",
@@ -49,6 +57,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 8,
         "pergunta":"Todas as religiões são corretas?",
         "resposta": "sim",
         "video": "2023-06-04",
@@ -56,6 +65,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 9,
         "pergunta": "A lei da atração é verdadeira?",
         "resposta": "sim",
         "video": "2023-06-11",
@@ -63,6 +73,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 10,
         "pergunta": "Os ateus tem o mesmo destino que os religiosos?",
         "resposta": "sim",
         "video": "2023-06-11",
@@ -70,6 +81,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 11,
         "pergunta": "O inferno existe?",
         "resposta": "nao",
         "video": "2023-06-11",
@@ -77,6 +89,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 12,
         "pergunta": "O inferno é criado pela nossa consciência devido a culpa ao desencarnar?",
         "resposta": "sim",
         "video": "2023-06-11",
@@ -84,6 +97,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 13,
         "pergunta": "O reencarne é algo rápido?",
         "resposta": "nao",
         "video": "2023-06-11",
@@ -91,6 +105,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 14,
         "pergunta": "Os suicidas são socorridos e salvos?",
         "resposta": "sim",
         "video": "2023-06-11",
@@ -98,6 +113,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 15,
         "pergunta": "Todas as almas sem distinção são salvas?",
         "resposta": "sim",
         "video": "2023-06-11",
@@ -105,6 +121,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 16,
         "pergunta": "Nós sempre assumimos o mesmo sexo biológico durante as reencarnações?",
         "resposta": "nao",
         "video": "2023-06-18",
@@ -112,6 +129,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 17,
         "pergunta": "A homossexualidade é pecado?",
         "resposta": "nao",
         "video": "2023-06-18",
@@ -119,6 +137,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 18,
         "pergunta": "A homossexualidade fere alguma lei divina?",
         "resposta": "nao",
         "video": "2023-06-18",
@@ -126,6 +145,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 19,
         "pergunta": "Os casais homossexuais são abençoados e recebem a mesma luz de deus?",
         "resposta": "sim",
         "video": "2023-06-18",
@@ -133,6 +153,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 20,
         "pergunta": "Se somos todos irmãos perante a Deus, aqueles que julgam o outro e tem preconceito acabam prejudicando a si mesmos?",
         "resposta": "sim",
         "video": "2023-06-18",
@@ -140,6 +161,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 21,
         "pergunta": "A homossexualidade é uma escolha?",
         "resposta": "nao",
         "video": "2023-06-18",
@@ -147,6 +169,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 22,
         "pergunta": "Todos são aceitos e recebidos ao desencarnar?",
         "resposta": "sim",
         "video": "2023-06-18",
@@ -154,6 +177,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 23,
         "pergunta": "Conseguimos nos curar de qualquer doença alterando nosso estado mental?",
         "resposta": "nao",
         "video": "2023-06-25",
@@ -161,6 +185,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 24,
         "pergunta": "Conseguimos nos curar de qualquer doença alterando nosso estado vibratório?",
         "resposta": "sim",
         "video": "2023-06-25",
@@ -168,6 +193,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 25,
         "pergunta": "Pessoas que faleceram se lembram de nós nesse plano?",
         "resposta": "sim",
         "video": "2023-06-25",
@@ -175,6 +201,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 26,
         "pergunta": "Os desencarnados podem nos visitar quando lhes é permitido?",
         "resposta": "sim",
         "video": "2023-06-25",
@@ -182,6 +209,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 27,
         "pergunta": "Sonhos podem ser desdobramentos?",
         "resposta": "sim",
         "video": "2023-06-25",
@@ -189,6 +217,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 28,
         "pergunta": "Os desencarnados ouvem nossas preces?",
         "resposta": "sim",
         "video": "2023-06-25",
@@ -196,6 +225,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 29,
         "pergunta": "Nós temos obrigação de perdoar as pessoas que nos fazem mal?",
         "resposta": "nao",
         "video": "2023-06-25",
@@ -203,6 +233,7 @@
         "origem": "@juliajstudioo"
     },
     {
+        "id": 30,
         "pergunta": "O perdão é algo benéfico a nós quando é feito?",
         "resposta": "sim",
         "video": "2023-06-25",
