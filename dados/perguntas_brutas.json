@@ -9540,10 +9540,4519 @@
         "relacionadaId": null
     },
     {
-        "id": 104,
+        "id": 1061,
+        "pergunta": "Uma pessoa desencarnada consegue sentir o perdão de alguém que ainda está encarnado?",
+        "resposta": "sim",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1062,
+        "pergunta": "O diabo na visão cristã de anjo caído existe?",
+        "resposta": "nao",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1063,
+        "pergunta": "Pessoas encarnadas, quando intencionam o pedido de perdão para alguém desencarnado, pode ser ouvido?",
+        "resposta": "sim",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1064,
+        "pergunta": "Esse pedido de perdão (desencarnado) é consequentemente perdoado?",
+        "resposta": "indiferente",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1063
+    },
+    {
+        "id": 1065,
+        "pergunta": "Os animais têm consciência?",
+        "resposta": "sim",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1066,
+        "pergunta": "As naves extraterrestres se apresentarão e serão visíveis a todos os humanos?",
+        "resposta": "indiferente",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1067,
+        "pergunta": "Alguns vão conseguir ver (naves extraterrestres) e outros não?",
+        "resposta": "sim",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1066
+    },
+    {
+        "id": 1068,
+        "pergunta": "Tudo que está na Bíblia é 100% verdade?",
+        "resposta": "nao",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1069,
+        "pergunta": "Nossos anjos de guarda podem ter sido amigos de vidas passadas?",
+        "resposta": "nao",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1070,
+        "pergunta": "Os nossos animais são enviados com algum propósito para as nossas vidas?",
+        "resposta": "sim",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1071,
+        "pergunta": "A falta de prosperidade pode estar ligada a vidas passadas?",
+        "resposta": "sim",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1072,
+        "pergunta": "Seres extraterrestres já visitaram o Brasil?",
+        "resposta": "sim",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1073,
+        "pergunta": "A compulsão alimentar pode ter a ver com a espiritualidade?",
+        "resposta": "sim",
+        "video": "2025-07-02",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1074,
+        "pergunta": "Jesus teve filhos biológicos?",
+        "resposta": "nao",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1075,
+        "pergunta": "Sonambulismo é espiritual?",
+        "resposta": "nao",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1076,
+        "pergunta": "Nós podemos se lembrar de vidas passadas?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1077,
+        "pergunta": "Quando dormimos, a alma sai do nosso corpo?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1078,
+        "pergunta": "Um filho vindo por adoção está no destino do adotante?",
+        "resposta": "indiferente",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1079,
+        "pergunta": "Existem situações a qual a adoção está no destino (do adotante)?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1078
+    },
+    {
+        "id": 1080,
+        "pergunta": "Existe mais de um Deus criador?",
+        "resposta": "nao",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1081,
+        "pergunta": "Autistas são seres mais evoluídos?",
+        "resposta": "indiferente",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1082,
+        "pergunta": "Assim como todos os humanos, existem humanos evoluídos e outros não (autistas)?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1081
+    },
+    {
+        "id": 1083,
+        "pergunta": "Autistas é resgate cármico?",
+        "resposta": "nao",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1084,
+        "pergunta": "Os autistas têm missão espiritual para o bem, por isso escolheram encarnar nessa condição?",
+        "resposta": "indiferente",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1085,
+        "pergunta": "Assim como as pessoas, a própria humanidade, existem autistas nessa condição?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1086,
+        "pergunta": "Podemos visitar os vilarejos do paraíso através dos nossos sonhos?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1087,
+        "pergunta": "É possível excluir todos os contratos de outras vidas através do método DAM?",
+        "resposta": "nao",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1088,
+        "pergunta": "Nossos filhos são reencarnações de pessoas que têm pendências mal resolvidas com a gente em vidas passadas?",
+        "resposta": "indiferente",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1089,
+        "pergunta": "Há casos que são assim (filhos, reencarnação)?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1088
+    },
+    {
+        "id": 1090,
+        "pergunta": "Todos carregam um potencial para coisas ruins e vamos evoluindo e melhorando conforme reencarnamos?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1091,
+        "pergunta": "O zumbido contínuo no ouvido pode ser algo espiritual?",
+        "resposta": "sim",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1092,
+        "pergunta": "A pena de morte é bem vista por Deus?",
+        "resposta": "nao",
+        "video": "2025-07-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1093,
+        "pergunta": "Pessoas trans, não-binárias e de outras identidades dissidentes são seres que vieram à Terra para ensinar algo à humanidade?",
+        "resposta": "nao",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1094,
+        "pergunta": "O gênero com o qual nós viemos é algo que faz sentido trazer algum ensinamento?",
+        "resposta": "nao",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1095,
+        "pergunta": "É a nossa alma que traz algum ensinamento, não o corpo, o gênero do corpo?",
+        "resposta": "sim",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1096,
+        "pergunta": "Antes de reencarnar, a pessoa sabe que nascerá com alguma deficiência?",
+        "resposta": "sim",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1097,
+        "pergunta": "A polarização na política brasileira e do mundo um dia vai acabar?",
+        "resposta": "indiferente",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1098,
+        "pergunta": "Isso (polarização política) depende de nós, humanos, a gente se unir?",
+        "resposta": "sim",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1097
+    },
+    {
+        "id": 1099,
+        "pergunta": "É possível viajar no tempo ainda encarnado?",
+        "resposta": "nao",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1100,
+        "pergunta": "Hitler já reencarnou?",
+        "resposta": "nao",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1101,
+        "pergunta": "O multiverso existe?",
+        "resposta": "sim",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1102,
+        "pergunta": "Há várias possibilidades de sermos várias pessoas ao mesmo tempo?",
+        "resposta": "sim",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1103,
+        "pergunta": "Existem outros mundos habitáveis exatamente igual ao planeta Terra?",
+        "resposta": "nao",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1104,
+        "pergunta": "A poligamia é algo errado?",
+        "resposta": "indiferente",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1105,
+        "pergunta": "Isso (poligamia) depende da moral do próprio humano?",
+        "resposta": "sim",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1104
+    },
+    {
+        "id": 1106,
+        "pergunta": "Podemos reencarnar em outros planetas?",
+        "resposta": "sim",
+        "video": "2025-07-09",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1107,
+        "pergunta": "Presente, passado e futuro estão ocorrendo simultaneamente?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1108,
+        "pergunta": "É possível acessar presente, passado e futuro pelas aberturas temporais?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1109,
+        "pergunta": "Pessoas que se convertem ao ateísmo são condenadas por isso?",
+        "resposta": "nao",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1110,
+        "pergunta": "A ayahuasca abre portais para outras dimensões?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1111,
+        "pergunta": "Esses portais (ayahuasca) podem ser de uma realidade paralela à nossa?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1110
+    },
+    {
+        "id": 1112,
+        "pergunta": "O incesto é errado?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1113,
+        "pergunta": "O desejo constante de tirar a vida pode ser uma bagagem de outras vidas?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1114,
+        "pergunta": "O arrebatamento irá acontecer conforme diz a Bíblia?",
+        "resposta": "nao",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1115,
+        "pergunta": "O arrebatamento já aconteceu alguma vez?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1114
+    },
+    {
+        "id": 1116,
+        "pergunta": "Ao ajudar na cura de uma pessoa, podemos ficar com carga espiritual?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1117,
+        "pergunta": "Cortes de laço podem prejudicar ambas as partes na vida terrena e espiritual?",
+        "resposta": "nao",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1118,
+        "pergunta": "Ver horas iguais o tempo todo é um sinal da espiritualidade?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1119,
+        "pergunta": "Deus se entristece com as pessoas que abortam?",
+        "resposta": "indiferente",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1120,
+        "pergunta": "Qualquer tipo de energia, de peso, tristeza, é a nossa própria consciência pelos nossos atos (Deus, aborto)?",
+        "resposta": "sim",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1119
+    },
+    {
+        "id": 1121,
+        "pergunta": "Os sonhos são sempre uma mensagem espiritual?",
+        "resposta": "nao",
+        "video": "2025-07-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1122,
+        "pergunta": "As vozes na nossa cabeça podem ser os nossos mentores nos direcionando?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1123,
+        "pergunta": "É fácil ouvir a voz dos mentores na nossa cabeça?",
+        "resposta": "nao",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1124,
+        "pergunta": "Para que a gente possa ouvir essas vozes, é necessário uma frequência de vibração elevada?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1125,
+        "pergunta": "Nossos pecados podem refletir em nossos filhos?",
+        "resposta": "nao",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1126,
+        "pergunta": "Já estamos no período de transição planetária?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1127,
+        "pergunta": "O período de transição planetária está próximo de ser concluído?",
+        "resposta": "nao",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1128,
+        "pergunta": "Sempre reencarnamos enquanto não for resolvido os assuntos pendentes?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1129,
+        "pergunta": "Reencarnamos sempre aqui na terra?",
+        "resposta": "nao",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1130,
+        "pergunta": "Existe mesmo uma colônia espiritual para onde os animais vão?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1131,
+        "pergunta": "Os animais podem ir para outras colônias também?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1132,
+        "pergunta": "É possível encontrar todos os pets que já passaram por nossa vida após a morte?",
+        "resposta": "nao",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1133,
+        "pergunta": "Isso (pets desencarnados) é porque alguns já encarnaram, por exemplo?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1132
+    },
+    {
+        "id": 1134,
+        "pergunta": "É verdade que no mundo espiritual trabalhamos assim como em vida?",
+        "resposta": "indiferente",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1135,
+        "pergunta": "Nós trabalhamos, mas o trabalho é diferente daquele em vida?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1134
+    },
+    {
+        "id": 1136,
+        "pergunta": "Posso escolher ficar cuidando dos pets no mundo espiritual?",
+        "resposta": "nao",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1137,
+        "pergunta": "As vivências com a Ayahuasca são direcionadas por guias espirituais?",
+        "resposta": "indiferente",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1138,
+        "pergunta": "Isso (ayahuasca) depende de outros fatores como as pessoas envolvidas?",
+        "resposta": "sim",
+        "video": "2025-07-16",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1137
+    },
+    {
+        "id": 1139,
+        "pergunta": "Praticar a quimbanda, mas sem fazer mal ao outro, pode trazer consequências negativas a quem pratica?",
+        "resposta": "nao",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1140,
+        "pergunta": "Praticar a quimbanda fazendo mal ao outro pode trazer consequências negativas a quem pratica?",
+        "resposta": "sim",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1139
+    },
+    {
+        "id": 1141,
+        "pergunta": "Isso (quimbanda) vale para tudo também, independente de religião?",
+        "resposta": "sim",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1139
+    },
+    {
+        "id": 1142,
+        "pergunta": "O tempo é a melhor definição que nós seres humanos podemos compreender do que é o poder de Deus?",
+        "resposta": "nao",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1143,
+        "pergunta": "Nós vivemos numa simulação dentro de outra simulação?",
+        "resposta": "indiferente",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1144,
+        "pergunta": "Esse assunto de simulação é algo que o nosso cérebro humano ainda é muito precário, por exemplo, para entender?",
+        "resposta": "sim",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1143
+    },
+    {
+        "id": 1145,
+        "pergunta": "A aparência física nossa de hoje pode ser semelhante a alguma de outras encarnações?",
+        "resposta": "nao",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1146,
+        "pergunta": "Isso (aparência física) é porque a cada vida a gente é único?",
+        "resposta": "sim",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1145
+    },
+    {
+        "id": 1147,
+        "pergunta": "Nós precisamos ter filhos para garantir o nosso reencarne em uma próxima vida?",
+        "resposta": "nao",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1148,
+        "pergunta": "O que passamos nessa vida pode ser devido a uma vida passada?",
+        "resposta": "sim",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1149,
+        "pergunta": "Isso (vida passada) sempre acontece?",
+        "resposta": "nao",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1148
+    },
+    {
+        "id": 1150,
+        "pergunta": "A pessoa que nasceu diferente ou deficiente é porque ela foi uma pessoa ruim na vida passada?",
+        "resposta": "indiferente",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1151,
+        "pergunta": "Isso (deficiência) pode acontecer?",
+        "resposta": "sim",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1150
+    },
+    {
+        "id": 1152,
+        "pergunta": "Isso (deficiência) é o que mais acontece, então?",
+        "resposta": "nao",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1150
+    },
+    {
+        "id": 1153,
+        "pergunta": "A deficiência tem muito mais a ver com os aprendizados que a gente traz do plano encarnatório, por exemplo?",
+        "resposta": "sim",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1154,
+        "pergunta": "Em algum momento em vida podemos lembrar de tudo o que vivemos em outras vidas?",
+        "resposta": "nao",
+        "video": "2025-07-20",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1155,
+        "pergunta": "Após a morte, há sempre uma reencarnação?",
+        "resposta": "sim",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1156,
+        "pergunta": "Essa reencarnação sempre acontece no plano terrestre?",
+        "resposta": "nao",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1155
+    },
+    {
+        "id": 1157,
+        "pergunta": "A reencarnação, ela é imediata?",
+        "resposta": "nao",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1155
+    },
+    {
+        "id": 1158,
+        "pergunta": "A incorporação de espíritos dentro de práticas religiosas, como a Umbanda, é verdadeira?",
+        "resposta": "sim",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1159,
+        "pergunta": "A prática da Umbanda pode ser um caminho para a evolução espiritual nessa vida?",
+        "resposta": "sim",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1160,
+        "pergunta": "Todas as práticas espirituais que causam um melhoramento pessoal podem levar à evolução?",
+        "resposta": "sim",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1161,
+        "pergunta": "Existem pessoas que, ao morrer, realmente chegaram a um fim, como dormir um sono eterno?",
+        "resposta": "nao",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1162,
+        "pergunta": "Pessoas ruins podem ser melhores com oração e trabalho para o bem?",
+        "resposta": "sim",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1163,
+        "pergunta": "É possível emagrecer apenas com a espiritualidade?",
+        "resposta": "nao",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1164,
+        "pergunta": "A religião conhecida como Gnosis é a que mais se aproxima da verdade?",
+        "resposta": "indiferente",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1165,
+        "pergunta": "Todas as religiões são verdadeiras?",
+        "resposta": "sim",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1164
+    },
+    {
+        "id": 1166,
+        "pergunta": "A energia negativa de outras pessoas pode fazer com que as coisas deem errado na nossa vida?",
+        "resposta": "sim",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1167,
+        "pergunta": "A revelação recebida pelo dito profeta Joseph Smith é verdadeira?",
+        "resposta": "nao",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1168,
+        "pergunta": "Ver algo do mundo espiritual significa algum tipo de mediunidade?",
+        "resposta": "sim",
+        "video": "2025-07-23",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1169,
+        "pergunta": "É verdade que nosso planeta será regenerado por completo em 2057?",
+        "resposta": "nao",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1170,
+        "pergunta": "A regeneração planetária é algo que leva centenas de anos ou mais?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1171,
+        "pergunta": "Aqueles que não acreditam em vida após a morte e espiritualidade ficarão surpresos em seus desencarnes?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1172,
+        "pergunta": "Chips capacetes e implantes negativos realmente existem?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1173,
+        "pergunta": "É possível extrair eles (chips, implantes) com a apometria?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1172
+    },
+    {
+        "id": 1174,
+        "pergunta": "Existem outros métodos também para a retirada deles (chips, implantes) além da apometria?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1172
+    },
+    {
+        "id": 1175,
+        "pergunta": "Os contratos antes de encarnarmos eles existem?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1176,
+        "pergunta": "Voto de pobreza antes de encarnar eles existem?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1177,
+        "pergunta": "É possível quebrar esses contratos (pobreza) com a apometria?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1176
+    },
+    {
+        "id": 1178,
+        "pergunta": "É possível quebrar eles (votos pobreza) de outras formas também?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1176
+    },
+    {
+        "id": 1179,
+        "pergunta": "Existe apenas uma religião certa?",
+        "resposta": "nao",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1180,
+        "pergunta": "Todas as religiões estão certas?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1179
+    },
+    {
+        "id": 1181,
+        "pergunta": "Com a crise climática, desastres naturais, guerras, é possível que o planeta Terra deixe de existir antes da hora?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1182,
+        "pergunta": "A eutanásia em animais em estágio terminal de uma doença é um procedimento aceitável pela espiritualidade?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1183,
+        "pergunta": "Ter problemas financeiros como golpes e afins, é uma consequência de erros que cometemos com outras pessoas em vidas passadas?",
+        "resposta": "nao",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1184,
+        "pergunta": "Podemos revogar o voto de pobreza ou humildade que fizemos antes de vir à Terra?",
+        "resposta": "sim",
+        "video": "2025-07-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1185,
+        "pergunta": "A mão da glória de São Cipriano possui poderes como descrito no grimório?",
+        "resposta": "sim",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1186,
+        "pergunta": "A vida humana é um holograma criado pelos pensamentos, sentimentos e crenças de cada pessoa?",
+        "resposta": "sim",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1187,
+        "pergunta": "Teremos um destino certo que não muda?",
+        "resposta": "nao",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1188,
+        "pergunta": "Vai existir um momento onde o dinheiro vai perder a sua importância?",
+        "resposta": "sim",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1189,
+        "pergunta": "Esse momento (dinheiro) está próximo?",
+        "resposta": "nao",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1188
+    },
+    {
+        "id": 1190,
+        "pergunta": "Devemos seguir a Bíblia ao pé da letra?",
+        "resposta": "nao",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1191,
+        "pergunta": "A Bíblia são metáforas?",
+        "resposta": "sim",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1192,
+        "pergunta": "Entidades como pombagira são espíritos de nossas reencarnações passadas?",
+        "resposta": "nao",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1193,
+        "pergunta": "O ancião de dias mencionado na Bíblia realmente existiu?",
+        "resposta": "nao",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1194,
+        "pergunta": "Os sete mundos das mansões que Jesus disse realmente existe?",
+        "resposta": "indiferente",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1195,
+        "pergunta": "Existe mais sobre esse (mansões, Jesus) assunto?",
+        "resposta": "sim",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1194
+    },
+    {
+        "id": 1196,
+        "pergunta": "A cidade que o profeta João viu, Genosém [Nova Jerusalém], é de fato uma cidade celestial?",
+        "resposta": "sim",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1197,
+        "pergunta": "Se exercitarmos nosso olho diariamente a ver energias, ele se acostumará a ver melhor as energias ao nosso redor?",
+        "resposta": "sim",
+        "video": "2025-07-30",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1198,
+        "pergunta": "As pirâmides quando ativadas se comunicavam umas com as outras formando uma defesa para a Terra?",
+        "resposta": "sim",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1199,
+        "pergunta": "Espíritos de fetos que não nasceram espontaneamente ou não, acompanham os pais ao longo da vida?",
+        "resposta": "nao",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1200,
+        "pergunta": "Isto é porque eles como espíritos (fetos) têm um propósito diferente?",
+        "resposta": "sim",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1199
+    },
+    {
+        "id": 1201,
+        "pergunta": "Os espíritos têm cheiro?",
+        "resposta": "nao",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1202,
+        "pergunta": "Os espíritos podem manipular as coisas ao nosso redor para mostrar cheiros?",
+        "resposta": "sim",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1203,
+        "pergunta": "A agenda 2030 que tanto falam é algo que vai acontecer de verdade?",
+        "resposta": "nao",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1204,
+        "pergunta": "A humanidade foi criada através de cruzamento genético dos seres anunakis com animais terrenos?",
+        "resposta": "nao",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1205,
+        "pergunta": "O Deus da Bíblia é o mesmo que criou o universo?",
+        "resposta": "indiferente",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1206,
+        "pergunta": "Todos os livros religiosos que mencionam Deus, são todos o mesmo Deus?",
+        "resposta": "sim",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1205
+    },
+    {
+        "id": 1207,
+        "pergunta": "Todos esses 'Deus' das religiões é o mesmo Deus que criou universo?",
+        "resposta": "sim",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1205
+    },
+    {
+        "id": 1208,
+        "pergunta": "Batizar quem já faleceu pode ser considerado necromancia?",
+        "resposta": "nao",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1209,
+        "pergunta": "Devemos temer a volta de Cristo?",
+        "resposta": "nao",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1210,
+        "pergunta": "Cristo voltará em carne?",
+        "resposta": "nao",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1209
+    },
+    {
+        "id": 1211,
+        "pergunta": "É a consciência de Cristo que retorna?",
+        "resposta": "sim",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1209
+    },
+    {
+        "id": 1212,
+        "pergunta": "Fazer um pacto de amor nesta vida, selando destino dos dois, pode gerar carma nas próximas vidas?",
+        "resposta": "sim",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1213,
+        "pergunta": "O livro de Urântia é confiável?",
+        "resposta": "nao",
+        "video": "2025-08-03",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1214,
+        "pergunta": "O Apocalipse vai acontecer conforme descrito na Bíblia?",
+        "resposta": "nao",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1215,
+        "pergunta": "Estamos em uma guerra espiritual aqui no Brasil?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1216,
+        "pergunta": "Estamos em uma guerra espiritual global?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1215
+    },
+    {
+        "id": 1217,
+        "pergunta": "Posso ter conversado com Deus como ser humano sem saber que era Deus?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1218,
+        "pergunta": "Os egípcios e os maias, entre outras civilizações antigas eram de espíritos superiores do que a civilização atual?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1218,
+        "pergunta": "Iluminati existe?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1219,
+        "pergunta": "O governo oculto existe?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1220,
+        "pergunta": "Os espíritos superiores são capazes de viajar no tempo?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1221,
+        "pergunta": "A terra é plana?",
+        "resposta": "nao",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1222,
+        "pergunta": "O alimento que comemos interfere na nossa evolução?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1223,
+        "pergunta": "Antes do dilúvio, as pessoas conversavam telepaticamente?",
+        "resposta": "indiferente",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1224,
+        "pergunta": "A história do dilúvio é verdadeira?",
+        "resposta": "nao",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1223
+    },
+    {
+        "id": 1225,
+        "pergunta": "Nós usamos a capacidade máxima do nosso cérebro?",
+        "resposta": "nao",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1226,
+        "pergunta": "Quando morremos, neste plano, recuperamos a nossa consciência divina?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1227,
+        "pergunta": "Nós viemos ao planeta Terra por vontade própria?",
+        "resposta": "sim",
+        "video": "2025-08-06",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1228,
+        "pergunta": "Uma vida sem dinheiro pode significar algum contrato de pobreza em outra vida?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1229,
+        "pergunta": "Existe maneiras de quebrar esses contratos (pobreza)?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1228
+    },
+    {
+        "id": 1230,
+        "pergunta": "Ao quebrar contratos feitos de pobreza, podemos ter danos futuros?",
+        "resposta": "nao",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1228
+    },
+    {
+        "id": 1231,
+        "pergunta": "A Igreja Católica irá mudar a doutrina anti-reencarnista que prega?",
+        "resposta": "nao",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1232,
+        "pergunta": "A Igreja Evangélica está firmada no astral?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1233,
+        "pergunta": "As religiões um dia irão acabar?",
+        "resposta": "nao",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1234,
+        "pergunta": "O sol é Deus?",
+        "resposta": "indiferente",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1235,
+        "pergunta": "Tudo é Deus?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1234
+    },
+    {
+        "id": 1236,
+        "pergunta": "Devolver o dízimo nos ajuda a prosperar?",
+        "resposta": "indiferente",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1237,
+        "pergunta": "Há perguntas das melhores feitas a ser feita a respeito de dízimo?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1236
+    },
+    {
+        "id": 1238,
+        "pergunta": "É verdade que a inveja pode nos causar doenças físicas?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1239,
+        "pergunta": "Deus existe?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1240,
+        "pergunta": "Deus é como nós imaginamos?",
+        "resposta": "nao",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1239
+    },
+    {
+        "id": 1241,
+        "pergunta": "O ser humano de fato, já foi à lua?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1242,
+        "pergunta": "Haverá fenômeno na Terra como o que ocorreu em Capela?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1243,
+        "pergunta": "Realmente teremos os dias de escuridão?",
+        "resposta": "sim",
+        "video": "2025-08-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1244,
+        "pergunta": "Pessoas que já desencarnaram podem nos trazer mensagens através dos sonhos?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1245,
+        "pergunta": "Isso (desencarnados, sonhos) é algo que eles fazem com muita frequência?",
+        "resposta": "nao",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1244
+    },
+    {
+        "id": 1246,
+        "pergunta": "Pessoas que já desencarnaram conseguem manter a proteção sobre os entes queridos na Terra, por exemplo, mãe para filho?",
+        "resposta": "nao",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1247,
+        "pergunta": "As pessoas que desencarnaram elas oram a nosso favor?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1248,
+        "pergunta": "É possível planejar o dia do desencarne?",
+        "resposta": "nao",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1249,
+        "pergunta": "Já que os filhos escolhem os pais, se um dos pais rejeitar o filho, o pai irá pagar por isso?",
+        "resposta": "indiferente",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1250,
+        "pergunta": "Há perguntas melhores a ser feitas sobre o tema (filhos, pais)?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1249
+    },
+    {
+        "id": 1251,
+        "pergunta": "Todas as pessoas que passam pela nossa vida já estavam destinadas?",
+        "resposta": "nao",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1252,
+        "pergunta": "A humanidade fará contato com outras civilizações de fora da Terra até 2050?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1253,
+        "pergunta": "Existe moralidade dentro da espiritualidade?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1254,
+        "pergunta": "A poligamia é errada?",
+        "resposta": "nao",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1255,
+        "pergunta": "Existe alma gêmea?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1256,
+        "pergunta": "Existe mais de uma alma gêmea?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1257,
+        "pergunta": "Jogos de loteria, como a Mega Sena, têm fraudes?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1258,
+        "pergunta": "É verdade que os anjos caídos estão presos na Terra?",
+        "resposta": "nao",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1259,
+        "pergunta": "Existem os anjos caídos?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1258
+    },
+    {
+        "id": 1260,
+        "pergunta": "É possível a nossa alma trabalhar no espiritual enquanto dormimos?",
+        "resposta": "sim",
+        "video": "2025-08-13",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1261,
+        "pergunta": "Existem reencarnações em que fomos animais?",
+        "resposta": "nao",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1262,
+        "pergunta": "Cristais são seres vivos?",
+        "resposta": "sim",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1263,
+        "pergunta": "Pessoas alcoólatras passam por tratamento no mundo espiritual quando desencarnam?",
+        "resposta": "sim",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1264,
+        "pergunta": "Já está confirmado que teremos os três dias de apagão. Eles acontecerão até 2026?",
+        "resposta": "indiferente",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1265,
+        "pergunta": "Esse apagão (3 dias de escuridão) é algo que tem a ver com nós humanos e as nossas decisões?",
+        "resposta": "sim",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1264
+    },
+    {
+        "id": 1266,
+        "pergunta": "Então não é algo espiritual, apagão (3 dias de escuridão) é algo espiritual?",
+        "resposta": "nao",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1264
+    },
+    {
+        "id": 1267,
+        "pergunta": "O paraíso, ou seja, o céu, é um universo paralelo?",
+        "resposta": "nao",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1268,
+        "pergunta": "O paraíso, ou o céu, é uma frequência diferente?",
+        "resposta": "sim",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1269,
+        "pergunta": "As pessoas com quem convivemos nessa vida, um pai, um tio, um marido, por exemplo, poderão estar presentes na nossa próxima vida?",
+        "resposta": "sim",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1270,
+        "pergunta": "Todos nós temos algum dom para exercer na Terra, ligado a Deus?",
+        "resposta": "sim",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1271,
+        "pergunta": "Todas as pessoas exercem esse dom?",
+        "resposta": "nao",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1272,
+        "pergunta": "Todos nós temos guias e mentores?",
+        "resposta": "sim",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1273,
+        "pergunta": "O anjo da guarda e o guia são o mesmo ser?",
+        "resposta": "nao",
+        "video": "2025-08-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1274,
+        "pergunta": "Todo o humano nasce com alma?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1275,
+        "pergunta": "Existem pessoas sem alma vivendo no planeta?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1274
+    },
+    {
+        "id": 1276,
+        "pergunta": "Existem corpos que estão vazios?",
+        "resposta": "nao",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1274
+    },
+    {
+        "id": 1277,
+        "pergunta": "Essas pessoas que nasceram com alma as perderam ao longo da vida?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1274
+    },
+    {
+        "id": 1278,
+        "pergunta": "A perda da alma acontece com facilidade?",
+        "resposta": "nao",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1274
+    },
+    {
+        "id": 1279,
+        "pergunta": "A perda da alma acontece quando baixamos demais a nossa frequência?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1274
+    },
+    {
+        "id": 1280,
+        "pergunta": "Quando a alma se perde, ela permanece ainda conectada ao corpo encarnado?",
+        "resposta": "indiferente",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1274
+    },
+    {
+        "id": 1281,
+        "pergunta": "Esta é uma conexão (alma) bem complicada de se explicar?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1274
+    },
+    {
+        "id": 1282,
+        "pergunta": "A alma que se perde, entretanto, está conectada no corpo, mas perdida, ela consegue influenciar no corpo?",
+        "resposta": "nao",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1283,
+        "pergunta": "É uma alma que acaba por ficar amortecida?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1284,
+        "pergunta": "Nesses estados, a alma então, aguarda o corpo desencarnar para se libertar?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1285,
+        "pergunta": "Um corpo sem alma, pode ser controlado por energias densas?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1286,
+        "pergunta": "A alma pode se expandir além dos limites do corpo físico?",
+        "resposta": "indiferente",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1287,
+        "pergunta": "Existem perguntas mais interessantes sobre isso (alma)?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1286
+    },
+    {
+        "id": 1288,
+        "pergunta": "Uma alma pode se fragmentar?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1289,
+        "pergunta": "Uma alma que se fragmenta continua existindo?",
+        "resposta": "sim",
+        "video": "2025-08-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1288
+    },
+    {
+        "id": 1290,
+        "pergunta": "O planeta Terra passará totalmente para a quinta dimensão?",
+        "resposta": "sim",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1291,
+        "pergunta": "Temos todos o dia exato de partir desse mundo?",
+        "resposta": "nao",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1292,
+        "pergunta": "A frase há muitas moradas na casa de meu pai é uma referência ao fato de que no plano espiritual existe mais do que apenas céu e inferno?",
+        "resposta": "sim",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1293,
+        "pergunta": "Estamos caminhando de fato para o fim das religiões?",
+        "resposta": "sim",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1294,
+        "pergunta": "Quem não atingir a quinta dimensão não conseguirá viver aqui mais?",
+        "resposta": "sim",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1295,
+        "pergunta": "O planeta Terra já é um planeta em regeneração?",
+        "resposta": "sim",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1296,
+        "pergunta": "Escolher contribuir para um mundo melhor pode funcionar para continuarmos aqui?",
+        "resposta": "indiferente",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1297,
+        "pergunta": "Isso vai depender se a sua vontade de querer contribuir é genuína?",
+        "resposta": "sim",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1296
+    },
+    {
+        "id": 1298,
+        "pergunta": "O fogo pode ser usado como um mensageiro do mundo espiritual?",
+        "resposta": "sim",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1299,
+        "pergunta": "Acordos de outras vidas podem ser finalizados com rituais de fogo?",
+        "resposta": "indiferente",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1300,
+        "pergunta": "Alguns (acordos) podem?",
+        "resposta": "sim",
+        "video": "2025-08-25",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1299
+    },
+    {
+        "id": 1301,
+        "pergunta": "Existe vida após a morte?",
+        "resposta": "sim",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1302,
+        "pergunta": "A vida após a morte é como conhecemos aqui?",
+        "resposta": "nao",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1303,
+        "pergunta": "Durante o congelamento de embriões para fertilização in vitro, o espírito já está conectado ao futuro bebê?",
+        "resposta": "nao",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1304,
+        "pergunta": "Os espíritos desencarnados conseguem ouvir ou sentir quando falamos deles?",
+        "resposta": "sim",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1305,
+        "pergunta": "Todas as pessoas um dia irão reencarnar no planeta Terra?",
+        "resposta": "nao",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1306,
+        "pergunta": "É verdade que, dependendo do tipo de energia que estamos carregando, os tipos de espíritos que nos rodeiam são semelhantes em energia?",
+        "resposta": "sim",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1307,
+        "pergunta": "Sempre a reencarnação se dá no planeta Terra?",
+        "resposta": "nao",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1308,
+        "pergunta": "Mesmo existindo livre arbítrio, nosso destino já está traçado?",
+        "resposta": "nao",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1309,
+        "pergunta": "As pessoas com quem temos relações, seja de amizade ou relacionamentos amorosos, já estão definidas ao reencarnar?",
+        "resposta": "indiferente",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1310,
+        "pergunta": "Algumas dessas pessoas estão (reencarnação, relacionamento)?",
+        "resposta": "sim",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1309
+    },
+    {
+        "id": 1311,
+        "pergunta": "Todas essas pessoas estão (reencarnação, relacionamento)?",
+        "resposta": "nao",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1309
+    },
+    {
+        "id": 1312,
+        "pergunta": "Todas as pirâmides existentes em várias partes do planeta Terra foram construídas por extraterrestres?",
+        "resposta": "nao",
+        "video": "2025-08-27",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1313,
+        "pergunta": "Se quisermos ver algum animal que tivemos após a nossa partida, mesmo que ele esteja encarnado, conseguimos encontrá-lo e saber como estão?",
+        "resposta": "sim",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1314,
+        "pergunta": "Os anjos possuem formas diferentes das que foram descritas por nós?",
+        "resposta": "sim",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1315,
+        "pergunta": "Existe um limite de vezes para reencarnarmos?",
+        "resposta": "nao",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1316,
+        "pergunta": "Existem vários tipos de céu para cada religião após a morte?",
+        "resposta": "sim",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1317,
+        "pergunta": "Qualquer um de nós pode ficar rico financeiramente?",
+        "resposta": "sim",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1318,
+        "pergunta": "Quando morremos, vamos ao hospital espiritual para nos regenerar?",
+        "resposta": "indiferente",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1319,
+        "pergunta": "Isso (hospital espiritual, morte) depende do desencarne de cada um, como isso aconteceu?",
+        "resposta": "sim",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1318
+    },
+    {
+        "id": 1320,
+        "pergunta": "Nós temos várias almas gêmeas?",
+        "resposta": "sim",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1321,
+        "pergunta": "Se não quero mais conviver com alguém nesse plano, na próxima vida irei reencarnar com algum tipo de laço?",
+        "resposta": "nao",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1322,
+        "pergunta": "Existe algum motivo pelo qual o oceano não é explorado?",
+        "resposta": "sim",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1323,
+        "pergunta": "O divino que habita em nós se comunica conosco?",
+        "resposta": "sim",
+        "video": "2025-08-31",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1324,
+        "pergunta": "A humanidade foi formada por uma única descendência no princípio dos tempos?",
+        "resposta": "nao",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1325,
+        "pergunta": "Deus se materializou no corpo de Cristo e veio à terra para que as pessoas pudessem conhecer Deus de perto?",
+        "resposta": "sim",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1326,
+        "pergunta": "Quando oramos ou pensamos em Deus, ele sempre nos ouve?",
+        "resposta": "sim",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1327,
+        "pergunta": "Todas as civilizações do universo foram criadas por Deus?",
+        "resposta": "sim",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1328,
+        "pergunta": "Os viajantes do tempo existem?",
+        "resposta": "sim",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1329,
+        "pergunta": "Nós devemos temer a vida extraterrestre?",
+        "resposta": "indiferente",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1330,
+        "pergunta": "Existem alguns tipos de vida extraterrestre aos quais deveríamos temer?",
+        "resposta": "sim",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1329
+    },
+    {
+        "id": 1331,
+        "pergunta": "É a maioria (extraterrestres)?",
+        "resposta": "nao",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1329
+    },
+    {
+        "id": 1332,
+        "pergunta": "Ao desencarnar, podemos encontrar quem desencarnou em outra localização geográfica?",
+        "resposta": "sim",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1333,
+        "pergunta": "Alguns seres extraterrestres que vêm à Terra podem ser versões futuras de nossa evolução nos visitando para captar recursos e utilizá-los na Terra do futuro?",
+        "resposta": "sim",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1334,
+        "pergunta": "Seres extraterrestres podem se comunicar em qualquer idioma?",
+        "resposta": "sim",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1335,
+        "pergunta": "Jesus Cristo visitou e morou somente no planeta Terra?",
+        "resposta": "nao",
+        "video": "2025-09-04",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1336,
+        "pergunta": "Haverá um momento no futuro em que os seres humanos serão híbridos?",
+        "resposta": "sim",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1337,
+        "pergunta": "Esse momento será considerado uma nova evolução?",
+        "resposta": "sim",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1336
+    },
+    {
+        "id": 1338,
+        "pergunta": "Médiums que desistem de praticar a religião por decepção ou algo pessoal ficam em dívida com as entidades?",
+        "resposta": "nao",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1339,
+        "pergunta": "É possível que haja algum momento no futuro em que a inteligência artificial ou algo relacionado à tecnologia avançada desenvolverá uma consciência e se rebelará contra os humanos?",
+        "resposta": "nao",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1340,
+        "pergunta": "Nos próximos anos, a ciência desenvolverá a cura efetiva para qualquer tipo de câncer?",
+        "resposta": "sim",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1341,
+        "pergunta": "A partir desse momento, nossa evolução dará um grande salto?",
+        "resposta": "indiferente",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1342,
+        "pergunta": "A nossa evolução não está atrelada a esse tipo de coisa?",
+        "resposta": "sim",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1341
+    },
+    {
+        "id": 1343,
+        "pergunta": "Os zumbis, como hoje vemos nos filmes de ficção, já existem no planeta Terra?",
+        "resposta": "nao",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1344,
+        "pergunta": "Eles (zumbis) irão existir em algum momento?",
+        "resposta": "nao",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1345,
+        "pergunta": "O amor significa muito mais do que a definição que hoje damos a ele?",
+        "resposta": "sim",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1346,
+        "pergunta": "Duas pessoas que sentem amor verdadeiro uma pela outra sempre estarão destinadas a se encontrar em outras vidas?",
+        "resposta": "nao",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1347,
+        "pergunta": "A velocidade da luz é a velocidade mais rápida do universo?",
+        "resposta": "nao",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1348,
+        "pergunta": "Ela é a velocidade mais rápida que nós humanos conhecemos?",
+        "resposta": "sim",
+        "video": "2025-09-07",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1349,
+        "pergunta": "É verdade que a maioria das pessoas que desencarnam vão primeiro para o umbral?",
+        "resposta": "nao",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1350,
+        "pergunta": "Os Anunnakis, em algum momento, interagiram com os habitantes do nosso planeta?",
+        "resposta": "sim",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1351,
+        "pergunta": "Podemos usar de algum método para lembrar do nosso planejamento reencarnatório?",
+        "resposta": "indiferente",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1352,
+        "pergunta": "A gente consegue acessar (método) o nosso planejamento reencarnatório por completo?",
+        "resposta": "nao",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1351
+    },
+    {
+        "id": 1353,
+        "pergunta": "A ascensão de extremistas de direita para cargos de governos mundiais é um risco para a humanidade?",
+        "resposta": "indiferente",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1354,
+        "pergunta": "Isso (direita, governo, humanidade) depende do que cada um está fazendo?",
+        "resposta": "sim",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1353
+    },
+    {
+        "id": 1355,
+        "pergunta": "A meditação pode nos levar a uma consciência maior?",
+        "resposta": "sim",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1356,
+        "pergunta": "O amor é a energia mais poderosa que existe no plano espiritual?",
+        "resposta": "nao",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1357,
+        "pergunta": "O amor é a energia mais poderosa que existe aqui no nosso planeta?",
+        "resposta": "sim",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1358,
+        "pergunta": "O livre-arbítrio existe no plano espiritual?",
+        "resposta": "indiferente",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1359,
+        "pergunta": "Existem perguntas mais profundas para fazer sobre esse assunto (livre-arbítrio)?",
+        "resposta": "sim",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1358
+    },
+    {
+        "id": 1360,
+        "pergunta": "O ho'oponopono funciona?",
+        "resposta": "sim",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1361,
+        "pergunta": "Os sonhos podem ser uma forma de acessar outras dimensões espirituais?",
+        "resposta": "sim",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1362,
+        "pergunta": "O fim da humanidade como conhecemos hoje está próxima?",
+        "resposta": "nao",
+        "video": "2025-09-10",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1363,
+        "pergunta": "O destino é apenas uma árvore com vários galhos de opções?",
+        "resposta": "sim",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1364,
+        "pergunta": "É possível a regeneração celular a partir da meditação?",
+        "resposta": "sim",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1365,
+        "pergunta": "É possível o rejuvenescimento celular a partir da meditação?",
+        "resposta": "nao",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1364
+    },
+    {
+        "id": 1366,
+        "pergunta": "Cortar laços com pai ou mãe que são tóxicos é pecado?",
+        "resposta": "nao",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1367,
+        "pergunta": "Quando morremos, é sempre um parente que vem nos buscar, caso formos para um lugar de luz?",
+        "resposta": "nao",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1368,
+        "pergunta": "Doenças como diabetes, câncer e outras podem ser curadas ou prevenidas com plantas e suplementos naturais?",
+        "resposta": "indiferente",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1369,
+        "pergunta": "Às vezes a medicina é necessária (plantas, doenças)?",
+        "resposta": "sim",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1368
+    },
+    {
+        "id": 1370,
+        "pergunta": "Existe uma religião que é um pouco mais assertiva que outra?",
+        "resposta": "nao",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1371,
+        "pergunta": "O kardecismo foi uma religião assertiva na maioria dos seus ensinamentos no tempo que veio?",
+        "resposta": "sim",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1372,
+        "pergunta": "O kardecismo hoje é uma religião assertiva na maioria dos ensinamentos?",
+        "resposta": "nao",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1373,
+        "pergunta": "Medo de extraterrestres pode atraí-los?",
+        "resposta": "nao",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1374,
+        "pergunta": "Existe possessão por espíritos ruins?",
+        "resposta": "sim",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1375,
+        "pergunta": "Se tivermos méritos nessa vida, podemos escolher com quem vamos vir na próxima?",
+        "resposta": "nao",
+        "video": "2025-09-14",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1376,
+        "pergunta": "Algum dia seremos capazes de conversar com qualquer pessoa do mundo, somente com a nossa mente?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1377,
+        "pergunta": "Pessoas com questões mentais trazem isso como resgate de uma vida passada?",
+        "resposta": "indiferente",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1378,
+        "pergunta": "Isso (questões mentais, vidas passadas) pode acontecer?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1377
+    },
+    {
+        "id": 1379,
+        "pergunta": "Isso (questões mentais, vidas passadas) acontece com frequência?",
+        "resposta": "nao",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1377
+    },
+    {
+        "id": 1380,
+        "pergunta": "Existem alguns tipos de extraterrestres vivendo nos nossos mares?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1381,
+        "pergunta": "Existem seres humanos que são escolhidos para conhecerem entre aspas, o profundo?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1382,
+        "pergunta": "Pessoas que maltratam animais serão julgadas após a morte?",
+        "resposta": "indiferente",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1383,
+        "pergunta": "O julgamento ele é algo próprio?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1384,
+        "pergunta": "Essas pessoas vão acabar se autojulgando?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1385,
+        "pergunta": "Existe um céu para cada religião?",
+        "resposta": "nao",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1386,
+        "pergunta": "Deus, aquele que tudo criou, realmente existe?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1387,
+        "pergunta": "A ciência, por não acreditar em Deus, está errada?",
+        "resposta": "nao",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1388,
+        "pergunta": "É possível reencarnar no passado?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1389,
+        "pergunta": "É possível reencarnar em outro planeta?",
+        "resposta": "sim",
+        "video": "2025-09-17",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1390,
+        "pergunta": "Depois do desencarne e com a nossa expansão de consciência já no mundo espiritual, podemos ter acesso com espíritos sagrados como arcanjos e até mesmo Jesus?",
+        "resposta": "sim",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1391,
+        "pergunta": "A evolução espiritual é infinita mesmo para as almas já iluminadas?",
+        "resposta": "sim",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1392,
+        "pergunta": "Os sonhos podem nos revelar coisas?",
+        "resposta": "sim",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1393,
+        "pergunta": "Muitas vezes sinto o cheiro do meu pai que já se foi, isso pode ser um sinal de que ele está perto?",
+        "resposta": "sim",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1394,
+        "pergunta": "Quando morremos, encontramos nossos antepassados?",
+        "resposta": "sim",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1395,
+        "pergunta": "O nosso despertar da consciência chega até nós para que possamos servir para um propósito no todo?",
+        "resposta": "sim",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1396,
+        "pergunta": "Pessoas que estão ou já estiveram presentes em nossas vidas fazem parte de um passado em que estivemos reencarnados e teríamos nos encontrado nessa vida?",
+        "resposta": "indiferente",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1397,
+        "pergunta": "Isso (reencarnação) pode acontecer?",
+        "resposta": "sim",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1396
+    },
+    {
+        "id": 1398,
+        "pergunta": "Isso (reencarnação) acontece com frequência hoje em dia?",
+        "resposta": "nao",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1396
+    },
+    {
+        "id": 1399,
+        "pergunta": "Nossas mães são amores perdidos ou genuínos em vidas passadas?",
+        "resposta": "nao",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1400,
+        "pergunta": "Todas as situações difíceis que passamos são carmas de vidas passadas?",
+        "resposta": "nao",
+        "video": "2025-09-21",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1401,
+        "pergunta": "Os deuses e deusas gregos são personificações nossas?",
+        "resposta": "nao",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1402,
+        "pergunta": "A reencarnação é de forma linear com o tempo?",
+        "resposta": "nao",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1403,
+        "pergunta": "A prostituição atrai espíritos negativos?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1404,
+        "pergunta": "Cartas psicografadas existem?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1405,
+        "pergunta": "Conseguiremos viver em um mundo harmônico?",
+        "resposta": "indiferente",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1406,
+        "pergunta": "Isso (mundo harmônico) depende da gente?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1405
+    },
+    {
+        "id": 1407,
+        "pergunta": "É verdade que Jesus voltará em carne?",
+        "resposta": "nao",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1408,
+        "pergunta": "É verdade que o que volta é a consciência crística?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1407
+    },
+    {
+        "id": 1409,
+        "pergunta": "Quando temos déjà vu, isso pode indicar lembranças de vidas passadas?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1410,
+        "pergunta": "Antes da nossa partida dessa terra, é possível a gente sentir algo avisando?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1411,
+        "pergunta": "Os espíritos se agradam com oferendas?",
+        "resposta": "indiferente",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1412,
+        "pergunta": "Isso (oferendas) varia mais da fé da pessoa do que os próprios espíritos?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1411
+    },
+    {
+        "id": 1413,
+        "pergunta": "Cirurgia plástica é pecado?",
+        "resposta": "nao",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1414,
+        "pergunta": "É possível trabalhar com alta magia e mesmo assim cultuar orixás e entidades?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1415,
+        "pergunta": "As divindades, seja Jesus, orixás ou outras divindades, vivem no mesmo plano?",
+        "resposta": "indiferente",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1416,
+        "pergunta": "Eles (divindades, Jesus) são seres de alta dimensão, mas cada um está na sua frequência?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1415
+    },
+    {
+        "id": 1417,
+        "pergunta": "A quimbanda agrada a Deus?",
+        "resposta": "indiferente",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1418,
+        "pergunta": "Isso (quimbanda) depende da energia que a pessoa está colocando, se é uma energia boa ou ruim para alguém?",
+        "resposta": "sim",
+        "video": "2025-09-24",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1417
+    },
+    {
+        "id": 1419,
+        "pergunta": "Em alguma dimensão podemos virar estrelas ou planetas?",
+        "resposta": "sim",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1420,
+        "pergunta": "Os Exus são seres que ainda podem evoluir?",
+        "resposta": "sim",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1421,
+        "pergunta": "Exu pode deixar de ser Exu algum dia?",
+        "resposta": "sim",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1422,
+        "pergunta": "Encontramos todos aqueles que já se foram ao desencarnar-nos?",
+        "resposta": "nao",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1423,
+        "pergunta": "Após o desencarne, o espírito pode escolher entre reencarnar ou trabalhar nas colônias espirituais?",
+        "resposta": "indiferente",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1424,
+        "pergunta": "Isso (desencarne, colônias espirituais) vai mais do que aquilo que o espírito quer escolher? Tem mais coisa envolvida?",
+        "resposta": "sim",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1423
+    },
+    {
+        "id": 1425,
+        "pergunta": "É possível nos comunicarmos com aqueles que já se foram?",
+        "resposta": "sim",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1426,
+        "pergunta": "Vamos conseguir acabar ou pelo menos diminuir consideravelmente a desigualdade social?",
+        "resposta": "sim",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1427,
+        "pergunta": "Meditar é de fato uma das coisas que mais ajuda a expandir a consciência?",
+        "resposta": "sim",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1428,
+        "pergunta": "A humanidade terá fim antes da regeneração se concluir?",
+        "resposta": "indiferente",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1429,
+        "pergunta": "Nosso destino ainda não está traçado por conta das nossas decisões?",
+        "resposta": "sim",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1430,
+        "pergunta": "É errado cortar da nossa vida pessoas que não fazem mais bem mesmo sendo família?",
+        "resposta": "nao",
+        "video": "2025-09-28",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1431,
+        "pergunta": "A visão granulada ou a neve visual pode ser algo espiritual?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1432,
+        "pergunta": "A neve visual pode ser também uma síndrome física?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1433,
+        "pergunta": "O TDAH pode estar associado com a mediunidade?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1434,
+        "pergunta": "Isso (TDAH, mediunidade) é bem comum?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1435,
+        "pergunta": "Estamos vivendo várias vidas em diferentes pontos do tempo e do espaço simultaneamente?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1436,
+        "pergunta": "As diversas divindades, seja Jesus ou orixás, coexistem no mesmo lugar?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1437,
+        "pergunta": "Deficiências têm a ver com o karma?",
+        "resposta": "nao",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1438,
+        "pergunta": "Existem clones humanos vivendo em sociedade?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1439,
+        "pergunta": "As diversas divindades dialogam entre si?",
+        "resposta": "indiferente",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1440,
+        "pergunta": "Esse diálogo (divindades) é uma coisa diferente do que a gente imagina?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1439
+    },
+    {
+        "id": 1441,
+        "pergunta": "É verdade que temos uma cópia idêntica a nós em uma dimensão paralela que podemos chamar de duplo?",
+        "resposta": "sim",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1442,
+        "pergunta": "A nossa única forma de comunicação com o nosso duplo é através de sonhos?",
+        "resposta": "nao",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1443,
+        "pergunta": "É possível o nosso duplo nos ajudar no presente trazendo informações do futuro?",
+        "resposta": "nao",
+        "video": "2025-10-01",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1444,
+        "pergunta": "As orgonites são realmente eficazes contra más energias?",
+        "resposta": "sim",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1445,
+        "pergunta": "Alguém aqui encarnado já conseguiu viajar no tempo?",
+        "resposta": "nao",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1446,
+        "pergunta": "Estamos perto de fazer contato com seres extraterrestres?",
+        "resposta": "nao",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1447,
+        "pergunta": "Quando sonhamos, podemos ter acesso a vidas passadas?",
+        "resposta": "sim",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1448,
+        "pergunta": "Os cristais possuem poderes?",
+        "resposta": "sim",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1449,
+        "pergunta": "Nós, seres humanos, iremos viver e se relacionar no dia a dia com extraterrestres?",
+        "resposta": "sim",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1450,
+        "pergunta": "Estamos próximos à fase sete anos de falsa paz?",
+        "resposta": "nao",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1451,
+        "pergunta": "A grande quantidade de aviões caindo tem algo a ver com espíritos trevosos?",
+        "resposta": "nao",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1452,
+        "pergunta": "Os nossos filhos podem sofrer ou pagar por algo que tenhamos cometido em outras vidas ou nessa?",
+        "resposta": "nao",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1453,
+        "pergunta": "Nós que acabamos puxando isso de volta por conta da lei do retorno?",
+        "resposta": "sim",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1454,
+        "pergunta": "A ativação da energia kundalini pode mudar a nossa vida física?",
+        "resposta": "indiferente",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1455,
+        "pergunta": "Ela (energia kundalini) pode mudar a nossa vida mental?",
+        "resposta": "sim",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1454
+    },
+    {
+        "id": 1456,
+        "pergunta": "Ela (energia kundalini) pode mudar a nossa vida espiritual?",
+        "resposta": "sim",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1454
+    },
+    {
+        "id": 1457,
+        "pergunta": "Escolhemos a nossa profissão no plano encarnatório?",
+        "resposta": "indiferente",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1458,
+        "pergunta": "Nós podemos escolher diversas profissões?",
+        "resposta": "sim",
+        "video": "2025-10-05",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1457
+    },
+    {
+        "id": 1459,
+        "pergunta": "Quando confessamos com o padre para nos libertar do pecado com o coração disposto a mudar, podemos nos libertar desse pecado?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1460,
+        "pergunta": "Quando confessamos com o padre, porém, o nosso coração está no lugar errado e não disposto a mudar, nos libertamos desse pecado?",
+        "resposta": "nao",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1459
+    },
+    {
+        "id": 1461,
+        "pergunta": "Os autistas são espíritos evoluídos?",
+        "resposta": "indiferente",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1462,
+        "pergunta": "O autismo pode ter alguma ligação com isso (espíritos evoluídos)?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1461
+    },
+    {
+        "id": 1463,
+        "pergunta": "Isso (autismo, espíritos evoluídos) acontece 100% das vezes?",
+        "resposta": "nao",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1461
+    },
+    {
+        "id": 1464,
+        "pergunta": "Algum espírito tem contato com a energia de Deus?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1465,
+        "pergunta": "Os anjos da guarda existem?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1466,
+        "pergunta": "Deus pode estar em todos os lugares ao mesmo tempo?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1467,
+        "pergunta": "O triângulo das bermudas é um portal magnético do planeta Terra?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1468,
+        "pergunta": "A lei do retorno existe?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1469,
+        "pergunta": "A lei do retorno obrigatoriamente vai acontecer aqui em Terra?",
+        "resposta": "nao",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1468
+    },
+    {
+        "id": 1470,
+        "pergunta": "A expansão de consciência com a ayahuasca pode nos fazer acessar o mundo espiritual?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1471,
+        "pergunta": "Todos os seres do universo fazem parte de uma única alma, entre aspas, Deus?",
+        "resposta": "sim",
+        "video": "2025-10-08",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1472,
+        "pergunta": "É possível que estejamos vivendo em uma simulação e a reencarnação seja uma prisão para gerar energia orgânica?",
+        "resposta": "nao",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1473,
+        "pergunta": "Uma chama gêmea aparece na vida de outra chama gêmea para ajudar a resgatar a sua melhor versão?",
+        "resposta": "sim",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1474,
+        "pergunta": "Jesus está andando em terra?",
+        "resposta": "nao",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1475,
+        "pergunta": "Todas as pessoas que passam pela nossa vida são por alguma razão de evolução?",
+        "resposta": "nao",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1476,
+        "pergunta": "A opção de casais não terem filhos é errada?",
+        "resposta": "nao",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1477,
+        "pergunta": "Os nossos irmãos de outros planetas estão interferindo caso uma guerra esteja para acontecer?",
+        "resposta": "sim",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1478,
+        "pergunta": "A todo momento estamos sendo vigiados pelas nossas atitudes?",
+        "resposta": "indiferente",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1479,
+        "pergunta": "Existe alguém em específico vigiando a gente?",
+        "resposta": "nao",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1478
+    },
+    {
+        "id": 1480,
+        "pergunta": "As nossas atitudes aqui terão, de alguma forma, um retorno?",
+        "resposta": "sim",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1481,
+        "pergunta": "O nascimento de Jesus foi em dezembro?",
+        "resposta": "nao",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1482,
+        "pergunta": "A arca de Noé realmente existiu?",
+        "resposta": "nao",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1483,
+        "pergunta": "É ruim pedir ajuda a entes queridos desencarnados?",
+        "resposta": "nao",
+        "video": "2025-10-12",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1484,
+        "pergunta": "Todas as pessoas, quando morrem, vão direto para hospitais espirituais para cura?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1485,
+        "pergunta": "Podemos escolher não reencarnar?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1486,
+        "pergunta": "Reencarnamos sempre aqui no planeta Terra?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1487,
+        "pergunta": "Existem extraterrestres vivendo entre nós?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1488,
+        "pergunta": "O Caso Roswell foi verdadeiro?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1489,
+        "pergunta": "A Área 51 mantém corpos extraterrestres?",
+        "resposta": "sim",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1490,
+        "pergunta": "As pirâmides foram construídas com o auxílio de seres de outros planetas?",
+        "resposta": "sim",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1491,
+        "pergunta": "Deus perdoa tudo?",
+        "resposta": "sim",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1492,
+        "pergunta": "Nós perdoamos tudo o que fizemos?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1493,
+        "pergunta": "Temos um único Deus?",
+        "resposta": "sim",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1494,
+        "pergunta": "Jesus vai voltar encarnado em Terra?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1495,
+        "pergunta": "O livro do Apocalipse é totalmente verdadeiro?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1496,
+        "pergunta": "Existem partes desse livro (apocalipse) que são verdadeiros?",
+        "resposta": "sim",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1495
+    },
+    {
+        "id": 1497,
+        "pergunta": "A Lei da Atração existe?",
+        "resposta": "sim",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1498,
+        "pergunta": "Para a Lei da Atração, basta ser sincero e desejar profundo?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1499,
+        "pergunta": "O avião da Malásia Airlines foi abduzido?",
+        "resposta": "nao",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1500,
+        "pergunta": "Existe abdução?",
+        "resposta": "sim",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1501,
+        "pergunta": "Alinhamentos planetários podem influenciar em nossas vidas?",
+        "resposta": "sim",
+        "video": "2025-10-15",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1502,
+        "pergunta": "O espírito também nasce e morre, assim como o corpo físico?",
+        "resposta": "nao",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1503,
+        "pergunta": "O espírito existe constantemente até a sua plena evolução?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1504,
+        "pergunta": "O inferno, como mostra a Bíblia, é verdadeiro?",
+        "resposta": "nao",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1505,
+        "pergunta": "Existe um lugar que vamos ao desencarnar?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1506,
+        "pergunta": "Esse lugar que vamos ao desencarnar é compatível com a vibração ao qual desencarnamos?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1507,
+        "pergunta": "Há sempre alguém do outro plano vindo nos buscar quando vamos desencarnar?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1508,
+        "pergunta": "Os orixás e entidades são intercessores por nós, assim como Jesus?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1509,
+        "pergunta": "Quando sonhamos com alguém que já desencarnou, é um contato deles conosco?",
+        "resposta": "indiferente",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1510,
+        "pergunta": "Isso (sonhar com desencarnados) pode acontecer?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1509
+    },
+    {
+        "id": 1511,
+        "pergunta": "As tecnologias têm crescido muito nos últimos anos. Seria errado esses implantes de chips em nossos corpos?",
+        "resposta": "indiferente",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1512,
+        "pergunta": "Tem pergunta mais interessante sobre isso (implantes e chips)?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1511
+    },
+    {
+        "id": 1513,
+        "pergunta": "Os seres humanos deveriam retirar o véu do esquecimento e ver o mundo espiritual?",
+        "resposta": "nao",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1514,
+        "pergunta": "Nós estamos preparados para isso (retirar o véu do esquecimento)?",
+        "resposta": "nao",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1513
+    },
+    {
+        "id": 1515,
+        "pergunta": "Os espíritos podem se materializar em forma de animais e ficar perto da gente?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1516,
+        "pergunta": "Os espíritos podem influenciar nos animais para se mostrar perto da gente?",
+        "resposta": "sim",
+        "video": "2025-10-19",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1515
+    },
+    {
+        "id": 1517,
+        "pergunta": "Tudo que imaginamos realmente acontece?",
+        "resposta": "nao",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1518,
+        "pergunta": "É correto acreditar em mais de uma religião?",
+        "resposta": "indiferente",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1519,
+        "pergunta": "Podemos acreditar em mais de uma religião?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1518
+    },
+    {
+        "id": 1520,
+        "pergunta": "Quando estamos ansiosos, mas com medo em tomar uma decisão, é porque ainda não é a hora?",
+        "resposta": "indiferente",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1521,
+        "pergunta": "Isso (ansiedade, decisão) pode ser apenas o ego em desbalanço, por exemplo?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1520
+    },
+    {
+        "id": 1522,
+        "pergunta": "Isso (ansiedade, decisão) pode também, dependendo do desenvolvimento da pessoa, ser de fato a alma falando que é uma decisão errada?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1520
+    },
+    {
+        "id": 1523,
+        "pergunta": "Estamos de fato próximos de um juízo final?",
+        "resposta": "nao",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1524,
+        "pergunta": "O planeta Terra terá eventos naturais devastadores nos próximos meses ou anos?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1525,
+        "pergunta": "Isso (Terra, eventos naturais) aí é mais culpa nossa, dos humanos?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": 1524
+    },
+    {
+        "id": 1526,
+        "pergunta": "Existem espíritos que podem nos fazer mal durante a noite?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1527,
+        "pergunta": "Quando acreditamos em mais de uma religião, é porque faz parte de um plano de evolução da alma?",
+        "resposta": "indiferente",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1528,
+        "pergunta": "Se recebemos mensagens psicografadas de entes queridos desencarnados, é porque tivemos permissão divina?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1529,
+        "pergunta": "A forma como pensamos influencia na nossa prosperidade e ganho de dinheiro?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1530,
+        "pergunta": "Michael Jackson realmente desencarnou?",
+        "resposta": "sim",
+        "video": "2025-10-22",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1531,
+        "pergunta": "A fé, independente da religião, é uma forma de levar todas as pessoas ao mesmo objetivo?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1532,
+        "pergunta": "Os seres também reencarnam assim como nós e também estão em processo de evolução?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1533,
+        "pergunta": "O processo de evolução deles é diferente do nosso?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1534,
+        "pergunta": "As pessoas que já morreram conseguem ver o que pode acontecer conosco?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1535,
+        "pergunta": "Sonhos podem ser avisos?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1536,
+        "pergunta": "Isso (sonhos) acontece com frequência?",
+        "resposta": "nao",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1537,
+        "pergunta": "A eucaristia é considerada energeticamente o corpo de Cristo?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1538,
+        "pergunta": "O nosso mentor é definido assim que nascemos?",
+        "resposta": "nao",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1539,
+        "pergunta": "O nosso mentor é definido antes de nascermos?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1540,
+        "pergunta": "O nosso mentor pessoal muda ao longo da vida?",
+        "resposta": "nao",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1541,
+        "pergunta": "Podemos ter mais de um mentor?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1542,
+        "pergunta": "Existem mentores que mudam ao longo da vida?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1543,
+        "pergunta": "Uma pessoa desencarnada sente sofrimento de ver as pessoas que gostavam dela sofrendo?",
+        "resposta": "indiferente",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1544,
+        "pergunta": "Existe uma troca energética?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1545,
+        "pergunta": "Ela é uma troca energética diferente do que a gente tem na cabeça?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1546,
+        "pergunta": "Nós sentimos que vamos morrer segundos antes do desencarne?",
+        "resposta": "sim",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1547,
+        "pergunta": "Nossa profissão é premeditada?",
+        "resposta": "nao",
+        "video": "2025-10-26",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1548,
+        "pergunta": "Quando encontramos nossos entes queridos ao desencarnar e havia um ressentimento pré-existente, essa paz é selada automaticamente?",
+        "resposta": "nao",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1549,
+        "pergunta": "É possível essa paz ser selada em desencarne?",
+        "resposta": "sim",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1550,
+        "pergunta": "Isso (paz, desencarne) acontece sempre?",
+        "resposta": "nao",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1551,
+        "pergunta": "Estamos vivendo o arrebatamento?",
+        "resposta": "nao",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1552,
+        "pergunta": "O Rio de Janeiro será devastado pela invasão das águas do mar em 2025?",
+        "resposta": "nao",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1553,
+        "pergunta": "Jesus é Deus?",
+        "resposta": "sim",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1554,
+        "pergunta": "O filme Nosso Lar retrata 100% de como é o pós-morte?",
+        "resposta": "nao",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1555,
+        "pergunta": "Muitas das coisas que o filme Nosso Lar retrata é igual?",
+        "resposta": "sim",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1556,
+        "pergunta": "A volta de Jesus é algo espiritual?",
+        "resposta": "sim",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1557,
+        "pergunta": "O santo sudário é a imagem de Cristo?",
+        "resposta": "nao",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1558,
+        "pergunta": "Existem versões de nós em outros lugares ao mesmo tempo?",
+        "resposta": "sim",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1559,
+        "pergunta": "O fenômeno interespacial 'A Grande Descida' acontecerá ainda esse ano?",
+        "resposta": "nao",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 1560,
+        "pergunta": "Havia seres humanos na Terra antes de Eva e Adão?",
+        "resposta": "sim",
+        "video": "2025-10-29",
+        "tema": null,
+        "origem": "@juliajstudioo",
+        "relacionadaId": null
+    },
+    {
+        "id": 15,
         "pergunta": "",
         "resposta": "",
-        "video": "2025-06-29",
+        "video": "2025-10-29",
         "tema": null,
         "origem": "@juliajstudioo",
         "relacionadaId": null
