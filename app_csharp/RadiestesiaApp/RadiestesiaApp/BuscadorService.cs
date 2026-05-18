@@ -11,11 +11,13 @@ namespace ProjetoRadiestesia
 		// Lista que vai ser usada pelo buscador
 		private List<Pergunta> _lista;
 
-		// O "COnstrutor" serve para a gente entregar as perguntas para o buscador
+		// O "Construtor" serve para a gente entregar as perguntas para o buscador
 		public BuscadorService(List<Pergunta> listaOriginal)
 		{
-			_lista = listaOriginal;
-		}
+            // A nossa lista privada recebe uma NOVA lista, 
+            // copiada elemento por elemento da lista original.
+            _lista = new List<Pergunta>(listaOriginal);
+        }
 
 		// GAVETA 2
 		public string RemoverAcentos(string texto)
