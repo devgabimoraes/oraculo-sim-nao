@@ -11,8 +11,6 @@ namespace ProjetoRadiestesia
         // --- GAVETA 1: O FLUXO PRINCIPAL (O QUE O PROGRAMA FAZ) ---
         static void Main(string[] args)
         {
-            ExibirBoasVindas(); // Basta chamar o nome dela. Não precisa de "var" porque ela não entrega um valor para ser guardado.
-
             string caminho = @"C:\Users\DELL\Documents\Cursos\Programacao\Projeto radiestesia\dados\perguntas_brutas.json";
             // o @ garante que o \ seja lido
 
@@ -21,80 +19,76 @@ namespace ProjetoRadiestesia
 
             // 2. Deserializando (Transformando texto em objetos)
             List<Pergunta> perguntas = JsonSerializer.Deserialize<List<Pergunta>>(json);
+            
+            // Como foi criado uma classe só para a busca, entregamos a lista para ele com essa variável
+            var buscador = new BuscadorService(perguntas);
 
-            // 3. Interação com o usuário
-            Console.WriteLine("Digite uma palavra para buscar:");
-            string termo = Console.ReadLine();
+            bool usuarioQuerContinuar = true;
 
-            // 4. Chamando a função de busca
-            var resultado = BuscarPerguntas(perguntas, termo);
+            while (usuarioQuerContinuar)
+            { 
+                Console.Clear();
+                ExibirBoasVindas();
 
-            // 5. Exibindo os resultados da busca
-            Console.WriteLine("\n--- Resultados Encontrados ---");
-            foreach (var p in resultado)
-            {
-                Console.WriteLine($"[{p.id}] - {p.pergunta} ({p.resposta.ToUpper()})");
-            }
+                // 3. Interação com o usuário
+                Console.WriteLine("Digite uma palavra para buscar:");
+                string termo = Console.ReadLine();
 
-            // 6. Parte de Detalhe por ID
-            Console.WriteLine("\n--- Teste de Busca por ID Direta ---");
-            Console.Write("Digite o ID de uma pergunta para ver o detalhe: ");
-            int idDigitado = int.Parse(Console.ReadLine()); // Transformamos o texto do teclado em número
+                // 4. Chamando a função de busca
+                var resultado = buscador.BuscarPerguntas(termo);
 
-            Pergunta perguntaEncontrada = BuscarPorId(perguntas, idDigitado); // Chamando a nova função que foi criada!
-
-            if (perguntaEncontrada != null)
-            {
-                Console.WriteLine($"\n[DETALHE]: {perguntaEncontrada.pergunta}");
-                Console.WriteLine($"[RESPOSTA]: {perguntaEncontrada.resposta.ToUpper()}");
-
-                // Lógica da "Mãe" (Contexto)
-                if (perguntaEncontrada.relacionadaId != null)
+                // 5. Exibindo os resultados da busca
+                Console.WriteLine($"\n--- Resultados Encontrados ({resultado.Count}) ---");
+                foreach (var p in resultado)
                 {
-                    var perguntaMae = BuscarPorId(perguntas, perguntaEncontrada.relacionadaId.Value);
-                    // Aqui chamamos a função de buscar por ID usando o ID da mãe!
+                    Console.WriteLine($"[{p.id}] - {p.pergunta} ({p.resposta.ToUpper()})");
+                }
 
-                    if (perguntaMae != null)
+                // 6. Parte de Detalhe por ID
+                Console.WriteLine("\n--- Busca por ID Direta ---");
+                Console.Write("Para ver informações detalhadas (como links e origens), digite o ID. Caso contrário, digite 0 para nova busca: ");
+                if (int.TryParse(Console.ReadLine(), out int idDigitado) && idDigitado > 0) // Transformamos o texto do teclado em número
+                {    Pergunta perguntaEncontrada = buscador.BuscarPorId(idDigitado); // Chamando a nova função que foi criada!
+
+                    if (perguntaEncontrada != null)
                     {
-                        Console.WriteLine("\n--- CONTEXTO IMPORTANTE ---");
-                        Console.WriteLine($"Esta pergunta é um esclarecimento de: \"{perguntaMae.pergunta}\"");
-                        Console.WriteLine("Recomendamos ler a pergunta acima para entender melhor o contexto.");
-                        Console.WriteLine("---------------------------\n");
+                        Console.WriteLine($"\n[DETALHE]: {perguntaEncontrada.pergunta}");
+                        Console.WriteLine($"[RESP]: {perguntaEncontrada.resposta.ToUpper()}");
+                        Console.WriteLine($"\n[DATA]: {perguntaEncontrada.video}");
+
+                        // Lógica da "Mãe" (Contexto)
+                        if (perguntaEncontrada.relacionadaId != null)
+                        {
+                            var perguntaMae = buscador.BuscarPorId(perguntaEncontrada.relacionadaId.Value);
+                            // Aqui chamamos a função de buscar por ID usando o ID da mãe!
+
+                            if (perguntaMae != null)
+                            {
+                                Console.WriteLine("\n--- IMPORTANTE ---");
+                                Console.WriteLine($"Esta pergunta é um esclarecimento de: \"{perguntaMae.pergunta}\"");
+                                Console.WriteLine("Recomendamos ler a pergunta acima para entender melhor o contexto.");
+                                Console.WriteLine("---------------------------\n");
+                            }
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("ID não encontrado.");
                     }
                 }
+
+                Console.WriteLine("\nVocê quer procurar outra palavra (S/N)?");
+                string opcao = Console.ReadLine().ToUpper();
+
+                if (opcao != "S")
+                {
+                    usuarioQuerContinuar = false;
+                }
             }
-            else
-            {
-                Console.WriteLine("ID não encontrado.");
-            }
+
+            Console.WriteLine("Obrigada pela sua busca! Até logo.");
 
         } // FIM do Main
-
-
-        // --- GAVETA 2: AS FERRAMENTAS DE BUSCA (LÓGICA) ---
-
-        static List<Pergunta> BuscarPerguntas(List<Pergunta> lista, string termo)
-        {
-            return lista
-                .Where(p => p.pergunta.Contains(termo, StringComparison.OrdinalIgnoreCase))
-                // Filtra a lista onde a pergunta contém o termo (ignorando maiúsculas/minúsculas)
-                .ToList();
-        }
-
-        static Pergunta BuscarPorId(List<Pergunta> lista, int idProcurado)
-        {
-            return lista.FirstOrDefault(p => p.id == idProcurado);
-            // O .FirstOrDefault retorna o primeiro item que encontrar com esse ID
-            // Se não encontrar nada, ele retorna null
-        }
-
-        static List<Pergunta> BuscarRelacionadas(List<Pergunta> lista, int idDaPerguntaAtual)
-        {
-            return lista
-                .Where(p => p.relacionadaId == idDaPerguntaAtual)
-                .ToList();
-        }
-
 
         // --- GAVETA 3: FERRAMENTAS VISUAIS ---
 
@@ -103,7 +97,9 @@ namespace ProjetoRadiestesia
             Console.WriteLine("================================");
             Console.WriteLine("   PROJETO RADIESTESIA v1.0    ");
             Console.WriteLine("================================");
+
         }
+
 
     } // FIM da Class Program
 
