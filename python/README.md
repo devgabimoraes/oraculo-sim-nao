@@ -1,0 +1,1 @@
+# Consultas Python do Projeto Radiestesia — em construção

@@ -1,0 +1,1 @@
+# Consultas SQL do Projeto Radiestesia — em construção
