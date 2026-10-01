@@ -11,7 +11,9 @@ namespace ProjetoRadiestesia
         // --- GAVETA 1: O FLUXO PRINCIPAL (O QUE O PROGRAMA FAZ) ---
         static void Main(string[] args)
         {
-            string caminho = @"C:\Users\DELL\Documents\Cursos\Programacao\Projeto radiestesia\dados\perguntas_brutas.json";
+            
+
+            string caminho = @"..\..\..\..\..\..\dados\perguntas_brutas.json";
             // o @ garante que o \ seja lido
 
             // 1. Lendo o arquivo
