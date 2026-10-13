@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
         <title>Projeto Radiestesia</title>
@@ -25,19 +25,21 @@
         <main>
             <!--Secção 1: Sobre-->
             <section id="sobre">
-                <h2>Sobre nós</h2>
-                <p>Este projeto é inspirado no canal do instagram da <strong>@juliastudioo</strong></p>
+                <h2>Sobre o projeto</h2>
+                <p>Este projeto é inspirado no canal do instagram da <strong><a href="https://www.instagram.com/juliajstudioo/" target="_blank">@juliajstudioo</a></strong></p>
                 <p>O canal posta semanalmente perguntas sobre vários temas enviadas pelo público</p>
-                <p>Por meio da <b>radiestesia</b> mais de <b>2mil perguntas</b> já foram respondida em SIM, NÃO ou INDIFERENTE. </p>
+                <p>Por meio da <b>radiestesia</b> mais de <b>2 mil perguntas</b> já foram respondidas em SIM, NÃO ou INDIFERENTE. </p>
+                <img src="imagens/radiestesia.jpg" alt="Sistema" width="400" height="300">
             </section>
             <hr width="80%" size="3" color="#8B008B">
             
             <!--Secção 2: sistema-->
             <section id="sistema">
                 <h2>O que o sistema faz?</h2>
+                
                 <ul>
                     <li>Pesquisa por palavras chave</li>
-                    <li>Realiza busca por ID's</li>
+                    <li>Realiza busca por IDs</li>
                     <li>Realiza busca sem acentos</li>
                     <li>Realiza busca por perguntas relacionadas</li>
                 </ul>
@@ -85,7 +87,7 @@
                     </tr>
                 </table>
 
-                <p>Toda a documentação do sistema está disponível no repositório do <strong><a href="https://github.com/devgabimoraes/oraculo-sim-nao.git">GitHub</strong>.</a></p>
+                <p>Toda a documentação do sistema está disponível no repositório do <strong><a href="https://github.com/devgabimoraes/oraculo-sim-nao.git">GitHub</a></strong>.</p>
             </section>
             <hr width="80%" size="3" color="#8B008B">
 
@@ -98,6 +100,7 @@
                     <li>Transcrição dos áudios</li>
                     <li>Criação do banco de dados com JSON</li>
                     <li>Desenvolvimento do backend em C#</li>
+                    <li>Desenvolvimento do backend em Python</li>
                     <li>Desenvolvimento do frontend em HTML5</li>
                 </ol>
 
@@ -109,6 +112,42 @@
             <section id="contacto">
                 <h2>Contacto</h2>
                 <p>Para entrar em contacto com a equipe do projeto, preencha o formulário abaixo:</p>
+            <!--Formulário de contacto-->
+            <form action="" method="post">
+                <fieldset style="width: 60%;">
+                    <legend><b>Dados de Contacto</b></legend>
+                    <br>
+
+                    <!--Campo Nome-->
+                        <label for="nome"><b>Nome Completo:</b></label><br>
+                        <input type="text" id="nome" name="nome" placeholder="Ex: Maria da Silva" size="40" required>
+                        <br><br>
+
+                        <!--Campo Email-->
+                        <label for="email"><b>E-mail:</b></label><br>
+                        <input type="email" id="email" name="email" placeholder="Ex: exemplo@dominio.pt" size="40" required>
+                        <br><br>
+
+                        <!--Campo Assunto (Select/Drop-Down)-->
+                        <label for="assunto"><b>Assunto:</b></label><br>
+                        <select id="assunto" name="assunto">
+                            <option value="duvida">Pergunta</option>
+                            <option value="exercicio">Dúvidas</option>
+                            <option value="exercicio">Consultas</option>
+                            <option value="outro">Outro assunto</option>
+                        </select>
+                        <br><br>
+
+                        <!--Campo Mensagem-->
+                        <label for="mensagem"><b>Mensagem:</b></label><br>
+                        <textarea id="mensagem" name="mensagem" rows="5" cols="42" placeholder="Escreva aqui a sua mensagem..." required></textarea>                       <br><br>
+                        <br><br>
+
+                            <!--Botões de ação-->
+                            <input type="submit" value="Enviar Mensagem">
+                            <input type="reset" value="Limpar Campos">
+                </fieldset>
+            </form>
             </section>
         </main>
         
