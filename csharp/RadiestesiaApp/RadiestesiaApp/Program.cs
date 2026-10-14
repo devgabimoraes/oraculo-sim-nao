@@ -21,7 +21,9 @@ namespace ProjetoRadiestesia
 
             // 2. Deserializando (Transformando texto em objetos)
             List<Pergunta> perguntas = JsonSerializer.Deserialize<List<Pergunta>>(json);
-            
+            int maior = perguntas.Max(p  => p.pergunta.Length);
+            Console.WriteLine(maior);
+
             // Como foi criado uma classe só para a busca, entregamos a lista para ele com essa variável
             var buscador = new BuscadorService(perguntas);
 
