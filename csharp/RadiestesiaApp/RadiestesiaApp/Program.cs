@@ -11,8 +11,6 @@ namespace ProjetoRadiestesia
         // --- GAVETA 1: O FLUXO PRINCIPAL (O QUE O PROGRAMA FAZ) ---
         static void Main(string[] args)
         {
-            
-
             string caminho = @"..\..\..\..\..\..\dados\perguntas_brutas.json";
             // o @ garante que o \ seja lido
 
@@ -21,9 +19,7 @@ namespace ProjetoRadiestesia
 
             // 2. Deserializando (Transformando texto em objetos)
             List<Pergunta> perguntas = JsonSerializer.Deserialize<List<Pergunta>>(json);
-            int maior = perguntas.Max(p  => p.pergunta.Length);
-            Console.WriteLine(maior);
-
+            
             // Como foi criado uma classe só para a busca, entregamos a lista para ele com essa variável
             var buscador = new BuscadorService(perguntas);
 
